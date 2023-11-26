@@ -1,2 +1,4 @@
 password
 .env
+__pycache__/
+.idea/
